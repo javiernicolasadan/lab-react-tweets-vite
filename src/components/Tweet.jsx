@@ -18,7 +18,7 @@ function Tweet(props) {
 
         <Message message={props.tweet.message} />
 
-       <Actions />
+       <Actions  />
       </div>
 
       <i className="fas fa-ellipsis-h"></i>
